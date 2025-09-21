@@ -116,24 +116,23 @@ mindmap
 ### 📈 Activity Overview
 
 ```mermaid
-gitgraph
-    commit id: "Initial"
-    commit id: "Setup"
-    branch feature/ai-platform
-    checkout feature/ai-platform
-    commit id: "AI Core"
-    commit id: "ML Models"
-    checkout main
-    commit id: "Integration"
-    merge feature/ai-platform
-    commit id: "Deploy"
-    branch feature/mobile-app
-    checkout feature/mobile-app
-    commit id: "Tauri Setup"
-    commit id: "UI/UX"
-    checkout main
-    commit id: "Release"
-    merge feature/mobile-app
+timeline
+    title Development Journey
+    2023 Q1 : Started AI Platform
+           : Initial Research
+           : Tech Stack Selection
+    2023 Q2 : Aether Connect Development
+           : AI Core Implementation
+           : ML Models Integration
+    2023 Q3 : Mobile App Development
+           : Tauri Setup
+           : Cross-platform Testing
+    2023 Q4 : Production Deployment
+           : Performance Optimization
+           : User Feedback Integration
+    2024 Q1 : Feature Enhancements
+           : Global Expansion Plans
+           : New Project Launches
 ```
 
 </div>
@@ -144,11 +143,47 @@ gitgraph
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
+
 </div>
 
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=anvin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
+
+</div>
+
+---
+
+## ⚡ Currently Working On
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🚀 Nexoris.io] --> B[🌍 Global Launch]
+    B --> C[🤖 AI Platform]
+    C --> D[📱 Mobile Apps]
+    D --> E[🎯 Australia Expansion]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+```
+
+**🔥 Building the future of AI-powered productivity tools**
 
 </div>
 
@@ -188,6 +223,27 @@ graph TB
     style E fill:#4ecdc4
     style I fill:#45b7d1
     style L fill:#96ceb4
+```
+
+### 🎯 Skills Radar
+
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00D9FF'}}}%%
+quadrantChart
+    title Skills & Expertise
+    x-axis "Low" --> "High"
+    y-axis "Beginner" --> "Expert"
+    
+    "Python": [0.9, 0.9]
+    "JavaScript": [0.8, 0.8]
+    "React": [0.8, 0.7]
+    "Rust": [0.6, 0.8]
+    "AI/ML": [0.9, 0.8]
+    "Tauri": [0.7, 0.6]
+    "Streamlit": [0.8, 0.7]
+    "Mobile Dev": [0.7, 0.6]
+    "Data Science": [0.8, 0.7]
+    "System Design": [0.7, 0.6]
 ```
 
 </div>
@@ -325,6 +381,26 @@ I bring this mindset into both **relationships** and **the projects I build** �
   
   ![Snake animation](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
   
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
+
+</div>
+
+---
+
+## 🎮 GitHub Profile Snake Game
+
+<div align="center">
+
+![Snake animation](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <div align="center">
