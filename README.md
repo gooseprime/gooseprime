@@ -1,113 +1,336 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anvin+%F0%9F%91%8B;Engineer+%7C+AI+Enthusiast+%7C+Builder;Full-Stack+%26+AI+Developer;Always+Building+Something+Cool" alt="Typing SVG" />
+</div>
 
-
-## 🦢 Hello, Feathered Fellow Code Enthusiasts! 
-
-Welcome to the official GitHub repository of **gooseprime**, aka **The Goose Who Codes**. 🦢💻
-
-I am **gooseprime**, your friendly neighborhood full-stack web developer, machine learning architect, and generative AI enthusiast, all wrapped up in one humble goose package! You’ll often find me flying high in the digital skies, building cool projects, experimenting with code, and occasionally waddling around in search of the perfect bug fix.
-
-Get ready to embark on an epic journey filled with memes, lines of code, and some unreasonably cool tech. There will be no tail feathers left unturned, no algorithm unsolved, and absolutely no lack of memes to keep you entertained while I build the future of the internet!
-
-> *Disclaimer: I do not, in fact, fly south for the winter, but my GitHub contributions do.* 
-
----
-
-## 🚀 **What do I do?** 
-
-### 🔮 **Machine Learning Architect**
-- 🤖 **Building AI** like no goose has ever done before! From the most advanced deep learning models to generative AI solutions, I work on projects that make machines smarter, like my AI-powered goose brain.  
-- 💡 **Data Science**: I clean, wrangle, and visualize data like I clean my feathers after a pond bath.  
-- 🧠 **Natural Language Processing**: Teaching computers to understand, generate, and speak human languages—just like the world's first multilingual goose.
-
-### 🌐 **Full Stack Web Development**
-- 💻 **Frontend**: I use HTML, CSS, and JavaScript to build websites that will make you say, "Wow, I wish I had a beak like that."  
-- 🖥 **Backend**: Node.js, Python (Flask/Django), and even PHP sometimes if I'm feeling nostalgic about the good old days.  
-- 🌱 **Databases**: SQL, NoSQL, PostgreSQL, MongoDB, and any other type of DB I can lay my wings on.  
-- 🦢 **Hosting & Deployment**: Whether it's Vercel, Heroku, AWS, or a server made out of recycled pond reeds, I deploy wherever my wings take me.
-
-### 🧑‍💻 **Generative AI Development**
-- 👾 **Generative Art**: From generating art to music to memes (yes, memes), my AI models produce creative content that’ll make your jaw drop.   
-- 🔮 **AI-Powered Projects**: I create stuff that feels like magic but is powered by science. Ever wanted a goose that helps you write your papers? Well, I’ve got something for you.  
-- 💭 **R&D**: Constantly researching the latest advancements in AI, from GPT models to GANs, to figure out how I can turn my AI into the ultimate digital goose.
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=anvin&label=Profile%20views&color=0e75b6&style=flat)
+  ![GitHub followers](https://img.shields.io/github/followers/anvin?label=Follow&style=social)
+  ![GitHub User's stars](https://img.shields.io/github/stars/anvin?label=Stars&style=social)
+  
+</div>
 
 ---
 
-## 🛠 **Tech Stack** (The Goose’s Toolkit)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anvin&fontSize=80&fontAlignY=40&desc=Engineer%20%7C%20AI%20Enthusiast%20%7C%20Builder%20%7C%20Entrepreneur&descAlignY=60&descAlign=center&stroke=000000&strokeWidth=2" alt="Header" />
+</div>
 
-### 🦢 **Languages I Speak** (Except for Goose, I mean, who can understand that?)
+## 🚀 About Me
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-000000?style=flat&logo=java&logoColor=007396)
+<div align="center">
 
-### 🦢 **Libraries & Frameworks** (Not the kind you find in a library, but the ones that make me powerful!)
+```mermaid
+graph TD
+    A[🎓 CS Student] --> B[⚡ Nexoris.io Founder]
+    B --> C[🛠️ AI/ML Engineer]
+    C --> D[🌍 Global Expansion]
+    D --> E[🔥 Building the Future]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+```
 
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=flat&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=000000)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=000000)
-![Django](https://img.shields.io/badge/Django-000000?style=flat&logo=django&logoColor=092E20)
+</div>
 
-### 🦢 **Databases** (I store my data like a goose stores breadcrumbs)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248)
-
-### 🦢 **Machine Learning & AI** (Because sometimes I code with my brain… or maybe it’s just the AI talking)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat&logo=pytorch&logoColor=EE4C2C)
-![Keras](https://img.shields.io/badge/Keras-000000?style=flat&logo=keras&logoColor=D00000)
-![Scikit Learn](https://img.shields.io/badge/Scikit%20Learn-000000?style=flat&logo=scikit-learn&logoColor=F7931E)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai&logoColor=000000)
-
-### 🦢 **Cloud Services** (Not the fluffy ones… the techy ones)
-
-![AWS](https://img.shields.io/badge/Amazon%20AWS-000000?style=flat&logo=amazon-aws&logoColor=FF9900)
-![Heroku](https://img.shields.io/badge/Heroku-000000?style=flat&logo=heroku&logoColor=430098)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=000000)
+- 🎓 **Computer Science** @ Sri Ramakrishna Engineering College, Coimbatore
+- ⚡ **Founder** of [Nexoris.io](https://nexoris.io) - AI-driven solutions in healthcare, legal, and productivity
+- 🛠️ Passionate about **Generative AI, ML engineering, and offline-first applications**
+- 🌍 **Australia-bound** 🇦🇺 - Expanding globally
+- 🧩 **Motto**: *Prototype fast. Ship faster. Refine always.*
 
 ---
 
-## 🎨 **Other Fun Facts About Me**
+## 🛠️ Tech Stack
 
-- **I love memes.** If you ever need a random meme generator, just hit me up with a pull request and I’ll make it happen.  
-- **I take naps.** Coding is exhausting, and sometimes a good nap helps to hatch fresh ideas. (Don’t judge the goose life).  
-- **I’m a goose, not a gander.** Yes, there’s a difference. Just trust me, okay?  
-- **Fluent in emojis.** 😅 I communicate best with a little bit of code and a lot of emojis.  
-- **My IDE is my nest.** I spend hours working on projects, which I call "building the future" (with some snacks on the side).  
-- **Learning Never Stops!** From fluttering through new JavaScript libraries to diving into advanced ML algorithms, I’m always pecking at new knowledge.
+<div align="center">
+
+### Languages & Frameworks
+
+```mermaid
+mindmap
+  root((Tech Stack))
+    Languages
+      Python
+      Rust
+      JavaScript
+      TypeScript
+      C/C++
+      Java
+    Desktop Apps
+      Tauri
+      Electron
+    Mobile
+      Capacitor
+      React Native
+    Web
+      React.js
+      Next.js
+      Streamlit
+    AI/ML
+      PyTorch
+      TensorFlow
+      Ollama
+      OpenRouter
+      LangChain
+    Databases
+      SQLite
+      PostgreSQL
+      MongoDB
+```
+
+</div>
+
+### 🏷️ Badges
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 **Current Projects** (Waddle my way through these...)
+## 📊 GitHub Analytics
 
-- **Goosebot**: A friendly chatbot that helps you solve all your coding problems with memes (and maybe a bit of AI).  
-- **Feathered Face Recognition**: A machine learning model to recognize and classify geese from other birds. Priorities, right?  
-- **WaddleCommerce**: An e-commerce platform where you can buy everything you didn’t know a goose needed.  
+<div align="center">
+
+### 📈 Activity Overview
+
+```mermaid
+gitgraph
+    commit id: "Initial"
+    commit id: "Setup"
+    branch feature/ai-platform
+    checkout feature/ai-platform
+    commit id: "AI Core"
+    commit id: "ML Models"
+    checkout main
+    commit id: "Integration"
+    merge feature/ai-platform
+    commit id: "Deploy"
+    branch feature/mobile-app
+    checkout feature/mobile-app
+    commit id: "Tauri Setup"
+    commit id: "UI/UX"
+    checkout main
+    commit id: "Release"
+    merge feature/mobile-app
+```
+
+</div>
+
+<div align="center">
+
+![Anvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
+
+</div>
 
 ---
 
-## 💬 **Let’s Connect!**
+## 🎯 Featured Projects
 
-- 🌐 [My Website](https://gooseprime.dev)
-- 🐦 [Twitter](https://twitter.com/gooseprime)
-- 📝 [LinkedIn](https://linkedin.com/in/gooseprime)
-- 🐦 [Medium](https://medium.com/@gooseprime)
-- 🎧 [Spotify](https://spotify.com/gooseprime) (Because why not?)
+<div align="center">
+
+### 🏗️ Project Architecture
+
+```mermaid
+graph TB
+    subgraph "AI Platform"
+        A[Aether Connect] --> B[Telemedicine AI]
+        B --> C[AR3D Avatars]
+        C --> D[Diagnostic AI]
+    end
+    
+    subgraph "Desktop Apps"
+        E[Nexoris Documenter] --> F[Tauri + SQLite]
+        F --> G[Knowledge Graph]
+        G --> H[AI Insights]
+    end
+    
+    subgraph "Data Science"
+        I[Health Surveillance] --> J[ML Predictions]
+        J --> K[Outbreak Detection]
+    end
+    
+    subgraph "Web Apps"
+        L[ITMS System] --> M[Streamlit Dashboard]
+        M --> N[Track Analysis]
+    end
+    
+    style A fill:#ff6b6b
+    style E fill:#4ecdc4
+    style I fill:#45b7d1
+    style L fill:#96ceb4
+```
+
+</div>
+
+### 🔥 Project Showcase
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🏥 Aether Connect
+**AI Telemedicine Platform**
+
+- 🤖 AI-powered patient-doctor interactions
+- 🎭 AR3D patient avatars
+- 🔍 Diagnostic AI assistance
+- 🔒 Secure telemedicine flows
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 📚 Nexoris Documenter
+**Knowledge Management System**
+
+- 🖥️ Desktop-first (Tauri + SQLite)
+- 📊 Graph-based insights
+- 🧠 AI-powered connections
+- 📝 PDF integration & flashcards
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏥 Smart Health Surveillance
+**Disease Prediction System**
+
+- 🔮 ML-powered outbreak prediction
+- 📊 Environmental data analysis
+- 🎯 Real-time health monitoring
+- 📈 Predictive analytics
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML-FF6B00?style=flat&logo=tensorflow&logoColor=white)
+![Data](https://img.shields.io/badge/Data-4CAF50?style=flat&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%">
+
+#### 🚂 ITMS System
+**Railway Track Monitoring**
+
+- 📊 Streamlit dashboard
+- 🔍 Anomaly detection
+- 📈 Track geometry analysis
+- 🎯 Real-time visualization
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-2196F3?style=flat&logo=plotly&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🦢 **Contributing to My Nest** 
+## 🎨 Coding Philosophy
 
-If you want to help me make the internet more beautiful, more intelligent, and more goose-friendly, feel free to contribute! I welcome all pull requests, and I'll be sure to give you a virtual high-five (or beak-bump) for your efforts. 
+<div align="center">
 
-Remember: Always code with a little bit of humor and a whole lot of curiosity. Keep flying high, and keep coding like a goose with a purpose!
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[🚀 Prototype]
+    B --> C[🧪 Experiment]
+    C --> D[📊 Analyze]
+    D --> E[🔧 Refine]
+    E --> F[📦 Ship]
+    F --> G[🔄 Iterate]
+    G --> A
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#45b7d1
+    style D fill:#96ceb4
+    style E fill:#feca57
+    style F fill:#ff9ff3
+    style G fill:#54a0ff
+```
+
+</div>
+
+- **🛠️ Practical & Modular** → Always structure for reusability
+- **📱 Offline-first** → Resilience through SQLite and desktop-first builds
+- **🧪 Experiment-Oriented** → Build → Break → Improve → Scale
+- **⚖️ Balanced Approach** → Low-level performance + High-level productivity
+- **📚 Documentation-Driven** → Docs are as important as code
 
 ---
 
-## 🎉 **Thank you for visiting my digital nest!** 🦢💻 Keep waddling through the world of code, and let’s build some epic stuff together!
+## 🌟 Vision & Philosophy
+
+<div align="center">
+
+> *"You're my constant, my North Star — guiding me no matter where I am."*
+
+</div>
+
+I bring this mindset into both **relationships** and **the projects I build** — seeking constancy, clarity, and direction in everything I do.
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-nexoris.io-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexoris.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anvin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvin@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<div align="center">
+  
+  **🔥 Always building. Always learning. Always pushing limits.**
+  
+  ![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&stroke=000000&strokeWidth=2)
+  
+</div>
