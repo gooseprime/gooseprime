@@ -1,285 +1,288 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Anvin+%F0%9F%91%8B;Engineer+%7C+AI+Enthusiast+%7C+Builder;Full-Stack+%26+AI+Developer;Always+Building+Something+Cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=ANVIN%20%3D%20SYSTEM_INIT%3B;AI_ARCHITECT%20%7C%20NEXT_GEN_BUILDER;SHAPING_THE_FUTURE%2C%20ONE_BYTE_AT_A_TIME;NEURAL_NETWORKS%20%26%20QUANTUM_DREAMS" alt="System Boot Sequence" />
 </div>
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=anvin&label=Profile%20views&color=0e75b6&style=flat)
-  ![GitHub followers](https://img.shields.io/github/followers/anvin?label=Follow&style=social)
-  ![GitHub User's stars](https://img.shields.io/github/stars/anvin?label=Stars&style=social)
+  ![Profile Views](https://komarev.com/ghpvc/?username=anvin&label=NEURAL_ACCESS&color=00FF41&style=for-the-badge&labelColor=000000)
+  ![GitHub followers](https://img.shields.io/github/followers/anvin?label=SYSTEM_CONNECTIONS&style=for-the-badge&logoColor=00FF41&color=00FF41&labelColor=000000)
+  ![GitHub User's stars](https://img.shields.io/github/stars/anvin?label=QUANTUM_STARS&style=for-the-badge&logoColor=00FF41&color=00FF41&labelColor=000000)
   
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anvin&fontSize=80&fontAlignY=40&desc=Engineer%20%7C%20AI%20Enthusiast%20%7C%20Builder%20%7C%20Entrepreneur&descAlignY=60&descAlign=center&stroke=000000&strokeWidth=2" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&customColorList=0,2,4,6,8,10&height=300&section=header&text=ANVIN&fontSize=100&fontAlignY=40&desc=NEURAL_NETWORK_ARCHITECT&descAlignY=60&descAlign=center&stroke=00FF41&strokeWidth=3" alt="System Header" />
 </div>
 
-## 🚀 About Me
+## ⚡ SYSTEM OVERVIEW
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[🎓 CS Student] --> B[⚡ Nexoris.io Founder]
-    B --> C[🛠️ AI/ML Engineer]
-    C --> D[🌍 Global Expansion]
-    D --> E[🔥 Building the Future]
+    A[🎓 CS_NEURAL_NET] --> B[⚡ NEXORIS_OS]
+    B --> C[🤖 AI_QUANTUM_CORE]
+    C --> D[🌍 GLOBAL_EXPANSION_PROTOCOL]
+    D --> E[🚀 FUTURE_ARCHITECT]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
+    style A fill:#001100
+    style B fill:#003300
+    style C fill:#005500
+    style D fill:#007700
+    style E fill:#00FF41
 ```
 
 </div>
 
-- 🎓 **Computer Science** @ Sri Ramakrishna Engineering College, Coimbatore
-- ⚡ **Founder** of [Nexoris.io](https://nexoris.io) - AI-driven solutions in healthcare, legal, and productivity
-- 🛠️ Passionate about **Generative AI, ML engineering, and offline-first applications**
-- 🌍 **Australia-bound** 🇦🇺 - Expanding globally
-- 🧩 **Motto**: *Prototype fast. Ship faster. Refine always.*
+- 🎓 **NEURAL_NETWORK_TRAINING** @ Sri Ramakrishna Engineering College
+- ⚡ **QUANTUM_BUILDER** of [Nexoris.io](https://nexoris.io) - Next-gen AI systems
+- 🤖 **AI_ARCHITECT** specializing in Generative AI, ML Engineering, Offline-First Systems
+- 🌍 **GLOBAL_EXPANSION** Protocol Active - Australia Node 🇦🇺
+- 🧩 **CORE_PHILOSOPHY**: *Code → Deploy → Scale → Evolve*
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ QUANTUM TECH STACK
 
 <div align="center">
 
-### Languages & Frameworks
+### NEURAL PATHWAYS
 
 ```mermaid
 mindmap
-  root((Tech Stack))
-    Languages
-      Python
-      Rust
-      JavaScript
-      TypeScript
-      C/C++
-      Java
-    Desktop Apps
-      Tauri
-      Electron
-    Mobile
-      Capacitor
-      React Native
-    Web
-      React.js
-      Next.js
-      Streamlit
-    AI/ML
-      PyTorch
-      TensorFlow
-      Ollama
-      OpenRouter
-      LangChain
-    Databases
-      SQLite
-      PostgreSQL
-      MongoDB
+  root((QUANTUM_STACK))
+    CORE_LANGUAGES
+      Python_3.11
+      Rust_1.75
+      TypeScript_5.3
+      C++_23
+      Assembly_x64
+    DESKTOP_QUANTUM
+      Tauri_2.0
+      Electron_28
+      WebGPU
+      WASM
+    MOBILE_NEURAL
+      Capacitor_5
+      React_Native
+      Flutter_3.16
+    WEB_MATRIX
+      Next.js_14
+      React_18
+      Streamlit_1.29
+      Svelte_5
+    AI_NEXUS
+      PyTorch_2.1
+      TensorFlow_2.15
+      Ollama_Local
+      OpenRouter_API
+      LangChain_0.1
+    DATA_QUANTUM
+      SQLite_3.45
+      PostgreSQL_16
+      MongoDB_7.0
+      Redis_7.2
 ```
 
 </div>
 
-### 🏷️ Badges
+### 🏷️ SYSTEM BADGES
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
+![Rust](https://img.shields.io/badge/Rust-1.75-000000?style=for-the-badge&logo=rust&logoColor=white&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.3-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
+![React](https://img.shields.io/badge/React-18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-20-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131?style=for-the-badge&logo=tauri&logoColor=black&labelColor=000000)
+![Electron](https://img.shields.io/badge/Electron-28-191970?style=for-the-badge&logo=Electron&logoColor=white&labelColor=000000)
+![Capacitor](https://img.shields.io/badge/Capacitor-5-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white&labelColor=000000)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.29-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white&labelColor=000000)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.1-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white&labelColor=000000)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-2.43-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 NEURAL ANALYTICS
 
 <div align="center">
 
-### 📈 Activity Overview
+### ⚡ SYSTEM TIMELINE
 
 ```mermaid
 timeline
-    title Development Journey
-    2023 Q1 : Started AI Platform
-           : Initial Research
-           : Tech Stack Selection
-    2023 Q2 : Aether Connect Development
-           : AI Core Implementation
-           : ML Models Integration
-    2023 Q3 : Mobile App Development
-           : Tauri Setup
-           : Cross-platform Testing
-    2023 Q4 : Production Deployment
-           : Performance Optimization
-           : User Feedback Integration
-    2024 Q1 : Feature Enhancements
-           : Global Expansion Plans
-           : New Project Launches
+    title QUANTUM DEVELOPMENT CYCLE
+    2023 Q1 : NEURAL_INIT
+           : AI_RESEARCH_PROTOCOL
+           : TECH_STACK_OPTIMIZATION
+    2023 Q2 : AETHER_CONNECT_DEPLOY
+           : TELEMEDICINE_AI_CORE
+           : AR3D_AVATAR_SYSTEM
+    2023 Q3 : MOBILE_QUANTUM_DEV
+           : TAURI_FRAMEWORK_SETUP
+           : CROSS_PLATFORM_TESTING
+    2023 Q4 : PRODUCTION_LAUNCH
+           : PERFORMANCE_OPTIMIZATION
+           : USER_FEEDBACK_INTEGRATION
+    2024 Q1 : FEATURE_QUANTUM_LEAP
+           : GLOBAL_EXPANSION_INIT
+           : NEXT_GEN_PROJECTS
 ```
 
 </div>
 
 <div align="center">
 
-![Anvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![System Stats](https://github-readme-stats.vercel.app/api?username=anvin&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&border_color=00FF41)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
+![Neural Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anvin&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=FFFFFF&border_color=00FF41)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
+![Quantum Activity](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true)
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakNum=00D9FF&sideNums=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=FFFFFF)
+![Neural Streak](https://github-readme-streak-stats.herokuapp.com/?user=anvin&theme=dark&hide_border=true&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF)
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 QUANTUM ACHIEVEMENTS
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=anvin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=anvin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&row=1)
 
 </div>
 
 ---
 
-## ⚡ Currently Working On
+## ⚡ CURRENT NEURAL PROCESSES
 
 <div align="center">
 
 ```mermaid
 graph LR
-    A[🚀 Nexoris.io] --> B[🌍 Global Launch]
-    B --> C[🤖 AI Platform]
-    C --> D[📱 Mobile Apps]
-    D --> E[🎯 Australia Expansion]
+    A[🚀 NEXORIS_OS] --> B[🌍 GLOBAL_DEPLOY]
+    B --> C[🤖 AI_QUANTUM_CORE]
+    C --> D[📱 MOBILE_NEURAL_NET]
+    D --> E[🎯 AUSTRALIA_NODE]
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
+    style A fill:#001100
+    style B fill:#003300
+    style C fill:#005500
+    style D fill:#007700
+    style E fill:#00FF41
 ```
 
-**🔥 Building the future of AI-powered productivity tools**
+**🔥 BUILDING THE NEXT GENERATION OF AI-POWERED SYSTEMS**
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 QUANTUM PROJECTS
 
 <div align="center">
 
-### 🏗️ Project Architecture
+### 🏗️ SYSTEM ARCHITECTURE
 
 ```mermaid
 graph TB
-    subgraph "AI Platform"
-        A[Aether Connect] --> B[Telemedicine AI]
-        B --> C[AR3D Avatars]
-        C --> D[Diagnostic AI]
+    subgraph "AI_QUANTUM_PLATFORM"
+        A[Aether Connect] --> B[Telemedicine AI Core]
+        B --> C[AR3D Neural Avatars]
+        C --> D[Diagnostic Quantum AI]
     end
     
-    subgraph "Desktop Apps"
-        E[Nexoris Documenter] --> F[Tauri + SQLite]
-        F --> G[Knowledge Graph]
-        G --> H[AI Insights]
+    subgraph "DESKTOP_NEURAL_APPS"
+        E[Nexoris Documenter] --> F[Tauri + SQLite Core]
+        F --> G[Knowledge Graph Neural]
+        G --> H[AI Insight Engine]
     end
     
-    subgraph "Data Science"
-        I[Health Surveillance] --> J[ML Predictions]
-        J --> K[Outbreak Detection]
+    subgraph "DATA_QUANTUM_SCIENCE"
+        I[Health Surveillance] --> J[ML Prediction Engine]
+        J --> K[Outbreak Detection AI]
     end
     
-    subgraph "Web Apps"
-        L[ITMS System] --> M[Streamlit Dashboard]
-        M --> N[Track Analysis]
+    subgraph "WEB_NEURAL_APPS"
+        L[ITMS Quantum System] --> M[Streamlit Neural Dashboard]
+        M --> N[Track Analysis AI]
     end
     
-    style A fill:#ff6b6b
-    style E fill:#4ecdc4
-    style I fill:#45b7d1
-    style L fill:#96ceb4
+    style A fill:#001100
+    style E fill:#003300
+    style I fill:#005500
+    style L fill:#007700
 ```
 
-### 🎯 Skills Radar
+### 🎯 NEURAL SKILLS MATRIX
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00D9FF'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#00FF41'}}}%%
 quadrantChart
-    title Skills & Expertise
-    x-axis "Low" --> "High"
-    y-axis "Beginner" --> "Expert"
+    title NEURAL EXPERTISE MATRIX
+    x-axis "BASIC" --> "ADVANCED"
+    y-axis "NOVICE" --> "EXPERT"
     
-    "Python": [0.9, 0.9]
-    "JavaScript": [0.8, 0.8]
-    "React": [0.8, 0.7]
-    "Rust": [0.6, 0.8]
-    "AI/ML": [0.9, 0.8]
-    "Tauri": [0.7, 0.6]
-    "Streamlit": [0.8, 0.7]
-    "Mobile Dev": [0.7, 0.6]
-    "Data Science": [0.8, 0.7]
-    "System Design": [0.7, 0.6]
+    "Python": [0.95, 0.9]
+    "TypeScript": [0.85, 0.85]
+    "React": [0.8, 0.75]
+    "Rust": [0.7, 0.8]
+    "AI/ML": [0.9, 0.85]
+    "Tauri": [0.75, 0.7]
+    "Streamlit": [0.85, 0.8]
+    "Mobile Dev": [0.75, 0.65]
+    "Data Science": [0.85, 0.75]
+    "System Design": [0.8, 0.7]
 ```
 
 </div>
 
-### 🔥 Project Showcase
+### 🔥 QUANTUM SHOWCASE
 
 <table>
 <tr>
 <td width="50%">
 
 #### 🏥 Aether Connect
-**AI Telemedicine Platform**
+**AI Telemedicine Quantum Platform**
 
-- 🤖 AI-powered patient-doctor interactions
-- 🎭 AR3D patient avatars
-- 🔍 Diagnostic AI assistance
-- 🔒 Secure telemedicine flows
+- 🤖 AI-powered patient-doctor neural interactions
+- 🎭 AR3D quantum patient avatars
+- 🔍 Diagnostic AI quantum assistance
+- 🔒 Secure telemedicine neural flows
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![AI](https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-18-20232A?style=flat&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/AI_QUANTUM-FF6B6B?style=flat&logo=tensorflow&logoColor=white)
 
 </td>
 <td width="50%">
 
 #### 📚 Nexoris Documenter
-**Knowledge Management System**
+**Neural Knowledge Management System**
 
-- 🖥️ Desktop-first (Tauri + SQLite)
-- 📊 Graph-based insights
-- 🧠 AI-powered connections
-- 📝 PDF integration & flashcards
+- 🖥️ Desktop-first (Tauri + SQLite Quantum Core)
+- 📊 Graph-based neural insights
+- 🧠 AI-powered quantum connections
+- 📝 PDF integration & neural flashcards
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-1.75-000000?style=flat&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-2.0-FFC131?style=flat&logo=tauri&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-3.45-003B57?style=flat&logo=sqlite&logoColor=white)
 
 </td>
 </tr>
@@ -287,31 +290,31 @@ quadrantChart
 <td width="50%">
 
 #### 🏥 Smart Health Surveillance
-**Disease Prediction System**
+**Disease Prediction Quantum System**
 
-- 🔮 ML-powered outbreak prediction
-- 📊 Environmental data analysis
-- 🎯 Real-time health monitoring
-- 📈 Predictive analytics
+- 🔮 ML-powered outbreak prediction engine
+- 📊 Environmental data neural analysis
+- 🎯 Real-time health monitoring AI
+- 📈 Predictive analytics quantum core
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6B00?style=flat&logo=tensorflow&logoColor=white)
-![Data](https://img.shields.io/badge/Data-4CAF50?style=flat&logo=pandas&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![ML](https://img.shields.io/badge/ML_QUANTUM-FF6B00?style=flat&logo=tensorflow&logoColor=white)
+![Data](https://img.shields.io/badge/DATA_NEURAL-4CAF50?style=flat&logo=pandas&logoColor=white)
 
 </td>
 <td width="50%">
 
-#### 🚂 ITMS System
-**Railway Track Monitoring**
+#### 🚂 ITMS Quantum System
+**Railway Track Neural Monitoring**
 
-- 📊 Streamlit dashboard
-- 🔍 Anomaly detection
-- 📈 Track geometry analysis
-- 🎯 Real-time visualization
+- 📊 Streamlit neural dashboard
+- 🔍 Anomaly detection AI
+- 📈 Track geometry quantum analysis
+- 🎯 Real-time visualization engine
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Analytics](https://img.shields.io/badge/Analytics-2196F3?style=flat&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.29-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Analytics](https://img.shields.io/badge/ANALYTICS_AI-2196F3?style=flat&logo=plotly&logoColor=white)
 
 </td>
 </tr>
@@ -319,59 +322,59 @@ quadrantChart
 
 ---
 
-## 🎨 Coding Philosophy
+## 🎨 NEURAL PHILOSOPHY
 
 <div align="center">
 
 ```mermaid
 flowchart LR
-    A[💡 Idea] --> B[🚀 Prototype]
-    B --> C[🧪 Experiment]
-    C --> D[📊 Analyze]
-    D --> E[🔧 Refine]
-    E --> F[📦 Ship]
-    F --> G[🔄 Iterate]
+    A[💡 QUANTUM_IDEA] --> B[🚀 NEURAL_PROTOTYPE]
+    B --> C[🧪 QUANTUM_EXPERIMENT]
+    C --> D[📊 NEURAL_ANALYSIS]
+    D --> E[🔧 QUANTUM_OPTIMIZE]
+    E --> F[📦 NEURAL_DEPLOY]
+    F --> G[🔄 QUANTUM_ITERATE]
     G --> A
     
-    style A fill:#ff6b6b
-    style B fill:#4ecdc4
-    style C fill:#45b7d1
-    style D fill:#96ceb4
-    style E fill:#feca57
-    style F fill:#ff9ff3
-    style G fill:#54a0ff
+    style A fill:#001100
+    style B fill:#003300
+    style C fill:#005500
+    style D fill:#007700
+    style E fill:#00AA00
+    style F fill:#00CC00
+    style G fill:#00FF41
 ```
 
 </div>
 
-- **🛠️ Practical & Modular** → Always structure for reusability
-- **📱 Offline-first** → Resilience through SQLite and desktop-first builds
-- **🧪 Experiment-Oriented** → Build → Break → Improve → Scale
-- **⚖️ Balanced Approach** → Low-level performance + High-level productivity
-- **📚 Documentation-Driven** → Docs are as important as code
+- **🛠️ QUANTUM_MODULAR** → Neural architecture for maximum reusability
+- **📱 OFFLINE_NEURAL_FIRST** → Quantum resilience through SQLite and desktop cores
+- **🧪 EXPERIMENT_QUANTUM** → Build → Break → Optimize → Scale → Evolve
+- **⚖️ NEURAL_BALANCE** → Low-level quantum performance + High-level neural productivity
+- **📚 DOCUMENTATION_AI** → Neural docs are quantum code
 
 ---
 
-## 🌟 Vision & Philosophy
+## 🌟 QUANTUM VISION
 
 <div align="center">
 
-> *"You're my constant, my North Star — guiding me no matter where I am."*
+> *"You're my quantum constant, my neural North Star — guiding me through every dimension."*
 
 </div>
 
-I bring this mindset into both **relationships** and **the projects I build** — seeking constancy, clarity, and direction in everything I do.
+I channel this quantum mindset into both **neural relationships** and **the systems I architect** — seeking quantum constancy, neural clarity, and dimensional direction.
 
 ---
 
-## 📫 Connect With Me
+## 📫 NEURAL CONNECTIONS
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-nexoris.io-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nexoris.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anvin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/anvin)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvin@example.com)
+[![Website](https://img.shields.io/badge/WEBSITE-nexoris.io-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=000000)](https://nexoris.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-NEURAL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/anvin)
+[![Twitter](https://img.shields.io/badge/TWITTER-QUANTUM-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000)](https://twitter.com/anvin)
+[![Email](https://img.shields.io/badge/EMAIL-NEURAL-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:anvin@example.com)
 
 </div>
 
@@ -379,34 +382,26 @@ I bring this mindset into both **relationships** and **the projects I build** �
 
 <div align="center">
   
-  ![Snake animation](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
+  ![Neural Snake](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
 ---
 
-## 📅 Contribution Calendar
+## 📅 QUANTUM CALENDAR
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true)
+![Neural Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anvin&theme=dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true)
 
 </div>
 
 ---
 
-## 🎮 GitHub Profile Snake Game
-
-<div align="center">
-
-![Snake animation](https://github.com/anvin/anvin/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
 <div align="center">
   
-  **🔥 Always building. Always learning. Always pushing limits.**
+  **🔥 QUANTUM_BUILDING. NEURAL_LEARNING. INFINITE_EVOLUTION.**
   
-  ![Profile Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&stroke=000000&strokeWidth=2)
+  ![Neural Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001100&customColorList=0,2,4,6,8,10&height=100&section=footer&stroke=00FF41&strokeWidth=3)
   
 </div>
